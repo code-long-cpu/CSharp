@@ -1,0 +1,15 @@
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/bin/Debug/net5.0/MyCShrpApp.deps.json
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/bin/Debug/net5.0/MyCShrpApp.runtimeconfig.json
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/bin/Debug/net5.0/MyCShrpApp.runtimeconfig.dev.json
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/bin/Debug/net5.0/MyCShrpApp.dll
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/bin/Debug/net5.0/ref/MyCShrpApp.dll
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/bin/Debug/net5.0/MyCShrpApp.pdb
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.csproj.AssemblyReference.cache
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.AssemblyInfoInputs.cache
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.AssemblyInfo.cs
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.csproj.CoreCompileInputs.cache
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.dll
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/ref/MyCShrpApp.dll
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.pdb
+/Users/xiaolong/Documents/Long_Learn_CSharp/MyCShrpApp/obj/Debug/net5.0/MyCShrpApp.genruntimeconfig.cache
